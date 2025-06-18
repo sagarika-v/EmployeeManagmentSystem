@@ -19,9 +19,11 @@ This is a basic **Employee Management System** built using Python. It allows you
 1. Make sure Python is installed.
 2. Run the program:
 
-python Employee.py
+
 
 
 
 ##sample output
+
+
 ![image](https://github.com/user-attachments/assets/27f14471-60e4-413f-80ba-814fb269566a)
